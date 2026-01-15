@@ -1,5 +1,3 @@
-
-<!doctype html>
 <html lang="en" data-username="deeproshan-shaw">
 <head>
   <meta charset="utf-8" />
